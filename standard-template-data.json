@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-02T09:21:51.273864843Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-02T09:22:38.044795250Z",
     "templateType": "trip_l",
     "propertyId": "e6067043-d1c1-4dec-a27b-7e3796bef499",
     "homepageId": "01a0a904-cf8a-7232-98cf-6886da1c6bfe"
@@ -1157,7 +1157,7 @@
                     "id": "01a0a904-fc65-79d5-96ca-9614d1dd8bf3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a904-cf8a-7232-98cf-6886da1c6bfe/main_hero/1789542062190-pmzda5aplg.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "독채",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1165,7 +1165,7 @@
                     "id": "01a0a904-fd61-7268-bcdd-42296fd9472c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a904-cf8a-7232-98cf-6886da1c6bfe/main_hero/1789542062520-y7zgu92vrs.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "감성펜션",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1173,7 +1173,7 @@
                     "id": "01a0a904-fc68-7cdf-b5b8-ae03769e7301",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a904-cf8a-7232-98cf-6886da1c6bfe/main_hero/1789542062665-g2j0c64j79.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "휴식",
                     "isSelected": true,
                     "blockId": null
                   },
